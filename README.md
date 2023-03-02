@@ -6,13 +6,13 @@ El proyecto es basado en crear y entrenar un modelo de inteligencia artificial c
 
 ### Utilizarlo en un celular
 
-Si quieres abrirlo en tu celular,puedes ingresar al link de la página, la cual, ya aloja el modelo predictivo.
+Si quieres abrirlo en tu celular, puedes ingresar al link de la página, la cual, ya aloja el modelo predictivo.
 - Se puede entrar desde cualquier navegador, habilitando el uso de la cámara, para el proceso de entrada de imágenes y obtener la salida(perro o gato).
 - Desde cualquier red.
 - Se puede abrir un explorador en tu celular e ingresar a la url.
 
 ### Uso
-Una vez en la página, puedes dar clic en el botón de "Cambiar camara" para utilizar la cámara delantera o trasera del celular. Solo apunta la cámara a un perro o gato, y abajo te aparecerá la predicción. No se puede considerar este clasificador como el mejor, ya que si no logra clasificar de manera precisa, aún tiene margen de mejora.
+Una vez en la página, puedes dar clic en el botón de "Cambiar cámara" para utilizar la cámara delantera o trasera del celular. Solo apunta la cámara a un perro o gato, y abajo te aparecerá la predicción. No se puede considerar este clasificador como el mejor, ya que si no logra clasificar de manera precisa, aún tiene margen de mejora.
 
 ## Dato
 - Para la clasificación del modelo, se utilizaron tres modelos de Keras: Uno de densal y dos convolucionales(uno añadiendo u dropout). luego del análisis de los tres modelos, se experimentó con datos aumentados a los tres modelos, para lo cual, se consideró el modelo convolucional sin dropout (CNN_AD).
