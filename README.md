@@ -18,4 +18,4 @@ Una vez en la página, puedes dar clic en el botón de "Cambiar cámara" para ut
 - Para la clasificación del modelo, se utilizaron tres modelos de Keras: Uno de densal y dos convolucionales(uno añadiendo u dropout). luego del análisis de los tres modelos, se experimentó con datos aumentados a los tres modelos, para lo cual, se consideró el modelo convolucional sin dropout (CNN_AD).
 
 ### Enlace de colab
-- https://colab.research.google.com/drive/1CYVfp2_bav-61ED2IiqYjxwb72O0MFlU?usp=sharing
+- Dar [click](https://colab.research.google.com/drive/1CYVfp2_bav-61ED2IiqYjxwb72O0MFlU?usp=sharing)
